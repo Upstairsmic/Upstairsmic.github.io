@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<link rel='icon' type='image' href=img/favicon.ico;>
 
-You can use the [editor on GitHub](https://github.com/Upstairsmic/upstairsmic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<meta charset="UTF-8" name=viewport content="width=device-width, initial-scale=1">
+<title>upstairsmic.com</title>
+<style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+body {background-image: url(img/Upstairs.jpg);
+background-size: height=1000 width=1000;
+background-repeat: no-repeat;
+background-position: 50% 100px;
+background-attachment: fixed;}
 
-### Markdown
+h1 {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:300%;
+text-align:center;}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+p {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:100%;
+text-align:center;}
 
-```markdown
-Syntax highlighted code block
+a {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:300%;
+align:center;}
+a:link    {color:#09BD00; background-color:transparent; text-decoration:none}
+a:visited {color:#95FF90; background-color:transparent; text-decoration:none}
+a:hover   {color:#FFFF00; background-color:transparent; text-decoration:none}
+a:active  {color:#09BD00; background-color:transparent; text-decoration:none}
 
-# Header 1
-## Header 2
-### Header 3
+</style>
+</head>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<div style="text-align: center">
+<a href=https://itunes.apple.com/au/artist/upstairsmic/id588254766 target="_blank">
+<img src=img/ping.png alt=Tunes height= 90 width=90></a>
 
-**Bold** and _Italic_ and `Code` text
+<a href=https://www.beatport.com/artist/upstairsmic/3065100 target="_blank">
+<img src=img/beatport.png alt=Beatport height=90 width=90></a>
 
-[Link](url) and ![Image](src)
-```
+<a href="https://www.discogs.com/user/Upstairsmic/collection?sort=median&sort_order=desc&layout=stats" target="_blank">
+<img src=img/discogs.png alt=discogs height=90 width=90></a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href=https://www.mixcloud.com/Upstairsmic target="_blank">
+<img src=img/mixcloud.png alt=mixcloud height=90 width=90></a>
+</div>
 
-### Jekyll Themes
+<h1>Earscalade</h1>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Upstairsmic/upstairsmic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div style="text-align: center">
+<a href=http://www.upstairsmic.com/earscalade.html target="_blank">
+<img src=img/earscalade.jpg alt=earscalade height=400 width=400></a>
 
-### Support or Contact
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href=https://www.facebook.com/upstairsmic target="_blank">
+<img src=img/facebook.png alt=Facebook height=90 width=90></a>
+
+<a href=http://www.skedaeddle.com/ target="_blank">
+<img src=img/skedaeddle.png alt=skedaeddle height=90 width=90></a>
+
+<a href=https://twitter.com/@upstairsmic target="_blank">
+<img src=img/twitter.png alt=Twitter height=90 width=90></a>
+
+<a href=upinthebay.html>
+<img src=img/Upinthebay.jpg alt=UpintheBay height=90 width=125></a>
+</div>
+
+</body>
+</html>
